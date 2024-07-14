@@ -1,5 +1,10 @@
-## Hi there 👋
+## Hi there, you've arrived at @husainwafaie 👋
+I'm Husain Wafaie!
+- 👨‍🎓 A senior studying computer science and engineering at the University of California, Irvine
+- 💻 Fond of computers and how they work
+- 🏹 International archery athlete and the UCI Archery Club president
 
+I'm passionate about solving complex problems ...
 <!--
 **husainwafaie/husainwafaie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,4 +18,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+ 🌟 Previously
+- 🚀 What I'm currently doing
 -->
+
+## 🌟 Previously
+
+## 🚀 What I'm currently doing
+
+## 💭 In time 
