@@ -31,6 +31,6 @@ I'm currently the software development team lead at <a href="https://ucicansat.g
 
 I'm looking for new grad SWE roles while finishing up my bachelor's degree at UC Irvine to graduate in July 2024!
 ## 💭 In time 
-- 📫 mailIf you'd like to contact me directly, <a href="mailto:husainwafaie@gmail.com" target="_blank">send me an email</a>!
+- 📫 If you'd like to contact me directly, <a href="mailto:husainwafaie@gmail.com" target="_blank">send me an email</a>!
 - 👔 Feel free to view my LinkedIn profile as well <a href="https://www.linkedin.com/in/husain-wafaie/" target="_blank">here</a>!
 - 🌐 To find me on other platforms or look through my portfolio, <a href="https://www.husainwafaie.com/" target="_blank">visit my website</a>!
