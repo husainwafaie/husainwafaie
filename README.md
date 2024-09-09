@@ -27,7 +27,7 @@ I previously interned at Omdena and Integrated Diagnostics Holdings as a full-st
 
 I was also a mentor for UCI-hosted hackathons, which were hosted by <a href="https://hack.ics.uci.edu/" target="_blank">Hack at UCI</a>. I provided guidance for teams and helped debug their code and applications. I was also involved in the <a href="https://www.qc-uci.club/" target="_blank">Quantum Computing Club at UCI</a>, where I designed a classical CNN mixed with variational quantum circuits to yield the highest accuracy for a self-driving model. Finally, I was the UCI Archery Club President, leading all club business and events.
 
-## Skills  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50px" style="margin-top:10px;"/>
+## Skills  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50px" margin-top="10px"/>
 
 ## 🚀 What I'm currently doing
 I'm currently the software development team lead at <a href="https://ucicansat.github.io/web/" target="_blank">UCI CanSat</a>, where we build a satellite that is launched to simulate the landing sequence of a planetary probe in the International CanSat competition hosted by NASA and AAS. My team and I placed 4th out of 140 teams worldwide! I'm currently also the team lead at UCI NewU, a cryptocurrency trading platform sponsored by Avalanche and Bitdeer.
