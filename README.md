@@ -27,7 +27,7 @@ I previously interned at Omdena and Integrated Diagnostics Holdings as a full-st
 
 I was also a mentor for UCI-hosted hackathons, which were hosted by <a href="https://hack.ics.uci.edu/" target="_blank">Hack at UCI</a>. I provided guidance for teams and helped debug their code and applications. I was also involved in the <a href="https://www.qc-uci.club/" target="_blank">Quantum Computing Club at UCI</a>, where I designed a classical CNN mixed with variational quantum circuits to yield the highest accuracy for a self-driving model. Finally, I was the UCI Archery Club President, leading all club business and events.
 
-## Skills  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50px" margin-top="10px"/>
+## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30px"/> <space> Tech Stack
 
 Languages: 
 ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white) 
@@ -61,7 +61,7 @@ Libraries/Frameworks:
 ## 🚀 What I'm currently doing
 I'm currently the software development team lead at <a href="https://ucicansat.github.io/web/" target="_blank">UCI CanSat</a>, where we build a satellite that is launched to simulate the landing sequence of a planetary probe in the International CanSat competition hosted by NASA and AAS. My team and I placed 4th out of 140 teams worldwide! I'm currently also the team lead at UCI NewU, a cryptocurrency trading platform sponsored by Avalanche and Bitdeer.
 
-I'm looking for new grad SWE roles while finishing up my bachelor's degree at UC Irvine to graduate in July 2024!
+I'm looking for new grad SWE roles while finishing up my bachelor's degree at UC Irvine to graduate in August 2024!
 ## 💭 In time 
 - 📫 If you'd like to contact me directly, <a href="mailto:husainwafaie@gmail.com" target="_blank">send me an email</a>!
 - 👔 Feel free to view my LinkedIn profile as well <a href="https://www.linkedin.com/in/husain-wafaie/" target="_blank">here</a>!
