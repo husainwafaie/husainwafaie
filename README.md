@@ -1,4 +1,4 @@
-# <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /> <h1 align="center"> Hi there, you've arrived at @husainwafaie </h1> <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
+# <h1 align="center"> <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /> Hi there, you've arrived at @husainwafaie <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /> </h1>
 I'm Husain Wafaie!
 - 👨‍🎓 A senior studying computer science and engineering at the University of California, Irvine
 - 💻 Fond of computers and how they work
