@@ -40,7 +40,7 @@ Languages:
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) 
 ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=FFF&style=for-the-badge)
 ![VHDL](https://img.shields.io/badge/VHDL-%234C709D.svg?style=for-the-badge&logo=V&logoColor=white)
-![Lisp](https://img.shields.io/badge/Lisp-276DC3?logo=lisp&logoColor=FFF&style=for-the-badge)
+![Lisp](https://img.shields.io/badge/Lisp-%23232F3E?logo=lisp&logoColor=FFF&style=for-the-badge)
 
 Developer Tools: 
 ![Linux](https://img.shields.io/badge/Linux-FF6C37?style=for-the-badge&logo=linux&logoColor=black) 
