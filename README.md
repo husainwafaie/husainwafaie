@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 -->
 
 ## 🌟 Previously
-I previously interned at Omdena and Integrated Diagnostics Holdings as a full-stack software engineer, working on multiple full-stack applications and backend systems. I was also an undergraduate researcher at the UCI Resilient Cyber-Physical Systems Lab where I designed machine learning algorithms for an autonomous drone configured by a Vicon System. Additionally, I was an undergraduate TA at the UC Irvine CS school where I held office hours and exam review sessions for more than 320 students.
+I previously interned at Omdena and Integrated Diagnostics Holdings as a full-stack software engineer, working on multiple full-stack applications and backend systems. I was also an undergraduate researcher at the UCI Resilient Cyber-Physical Systems Lab where I designed machine learning algorithms for an autonomous drone configured by a Vicon System. Additionally, I was an Undergraduate TA at the UC Irvine CS school where I held office hours and exam review sessions for more than 320 students.
 
 I was also a mentor for UCI-hosted hackathons hosted by <a href="https://hack.ics.uci.edu/" target="_blank">Hack at UCI</a>. I provided guidance for teams and helped debug their code and applications. I was also involved in the <a href="https://www.qc-uci.club/" target="_blank">Quantum Computing Club at UCI</a>, where I designed a classical CNN mixed with variational quantum circuits to yield the highest accuracy for a self-driving model. Finally, I was the UCI Archery Club President, leading all club business and events.
 
