@@ -1,6 +1,6 @@
 # <h1 align="center"> <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /> Hi there, you've arrived at @husainwafaie <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /> </h1>
 I'm Husain Wafaie!
-- 👨‍🎓 A senior studying computer science and engineering at the University of California, Irvine
+- 👨‍🎓 A computer science and engineering new grad at the University of California, Irvine
 - 💻 Fond of computers and how they work
 - 🏹 International archery athlete and UCI Archery Club President
 
