@@ -62,7 +62,6 @@ Libraries/Frameworks:
 ## 🚀 What I'm currently doing
 I'm currently the software development team lead at <a href="https://ucicansat.github.io/web/" target="_blank">UCI CanSat</a>, where we build a satellite that is launched to simulate the landing sequence of a planetary probe in the International CanSat competition hosted by NASA and AAS. My team and I placed 4th out of 140 teams worldwide! I'm currently also the team lead at UCI NewU, a cryptocurrency trading platform sponsored by Avalanche and Bitdeer.
 
-I'm looking for new grad SWE roles while finishing up my bachelor's degree at UC Irvine to graduate in August 2024!
 ## 💭 In time 
 - 📫 If you'd like to contact me directly, <a href="mailto:husainwafaie@gmail.com" target="_blank">send me an email</a>!
 - 👔 Feel free to view my LinkedIn profile as well <a href="https://www.linkedin.com/in/husain-wafaie/" target="_blank">here</a>!
