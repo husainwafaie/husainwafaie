@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 -->
 
 ## 🌟 Previously
-I previously interned at Omdena and Integrated Diagnostics Holdings as a full-stack software engineer, working on multiple full-stack applications and backend systems. I was also an undergraduate researcher at the UCI Resilient Cyber-Physical Systems Lab where I designed machine learning algorithms for an autonomous drone configured by a Vicon System. Additionally, I was an Undergraduate TA at the UC Irvine CS school where I held office hours and exam review sessions for more than 320 students.
+I previously interned at Omdena and Integrated Diagnostics Holdings as a full-stack software engineer, working on multiple full-stack applications and backend systems. I was also an undergraduate researcher at the UCI Resilient Cyber-Physical Systems Lab where I designed machine learning algorithms for an autonomous drone configured by a Vicon System. Additionally, I was an Undergraduate TA at the UCI CS school where I held office hours and exam review sessions for more than 320 students.
 
 I was the software development team lead at <a href="https://ucicansat.github.io/web/" target="_blank">UCI CanSat</a>, where we built a satellite that is launched to simulate the landing sequence of a planetary probe in the International CanSat competition hosted by NASA and AAS. My team and I placed 4th out of 140 teams worldwide! I was also the team lead at UCI NewU, a cryptocurrency trading platform sponsored by Avalanche and Bitdeer.
 
